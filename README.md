@@ -2,7 +2,7 @@
 Player powered by subtitles
 
 Check it yourself
-![Alt Text](https://github.com/LAXITKUMAR/VidSub-Player/tree/master/tutorial/vidsub-sample.gif)
+![ScreenShot](https://github.com/LAXITKUMAR/VidSub-Player/tree/master/tutorial/vidsub-sample.gif)
 
 Steps to build:
 1. Run npm install to install all dev dependencies.
