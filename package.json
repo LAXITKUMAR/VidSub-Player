@@ -1,0 +1,31 @@
+{
+  "name": "vidsub-alpha",
+  "version": "1.0.0",
+  "description": "Video player powered by subtitles",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "player",
+    "subtitles"
+  ],
+  "author": "LAXIT KUMAR <kumar.laxit@gmail.com> (https://github.com/LAXITKUMAR/)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.7.6",
+    "electron-builder": "^19.37.1",
+    "electron-prebuilt": "^1.4.13",
+    "rimraf": "^2.6.2"
+  },
+  "build": {
+    "appId": "com.laxit.vidsub",
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon/vidSub.png.ico"
+    }
+  }
+}
