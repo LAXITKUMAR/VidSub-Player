@@ -2,7 +2,7 @@
 Player powered by subtitles
 
 Check it yourself
-![ScreenShot](/tutorial/vidsub-sample.gif)
+![ScreenShot](/tutorial/vidsub-sample-reduced.gif)
 
 Steps to build:
 1. Run npm install to install all dev dependencies.
